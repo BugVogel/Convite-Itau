@@ -1,0 +1,67 @@
+{
+  "invites": [
+    {
+      "id": 0,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": false,
+      "complete": false,
+      "ecPoints": true,
+      "ecDay": false
+    },
+    {
+      "id": 1,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": true,
+      "complete": false,
+      "ecPoints": false,
+      "ecDay": false
+    },
+    {
+      "id": 2,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": true,
+      "complete": true,
+      "ecPoints": false,
+      "ecDay": false
+    },
+    {
+      "id": 3,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": false,
+      "complete": false,
+      "ecPoints": true,
+      "ecDay": false
+    },
+    {
+      "id": 4,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": false,
+      "complete": false,
+      "ecPoints": true,
+      "ecDay": false
+    },
+    {
+      "id": 5,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": false,
+      "complete": false,
+      "ecPoints": false,
+      "ecDay": true
+    },
+    {
+      "id": 6,
+      "email": "junior1258sx8@gmail.com",
+      "invited": true,
+      "registered": false,
+      "complete": false,
+      "ecPoints": true,
+      "ecDay": false
+    }
+  ]
+}
